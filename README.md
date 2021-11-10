@@ -1,7 +1,7 @@
 ### Homework _4 _1 Responsiv dizayn
 
 
-*Bu tapşırıqda bootstrap ilə responsiv dizayn olunan 3 fayldan ibarət proyekt var*
+*Bu tapşırıq bootstrap ilə responsiv dizayn olunan 3 fayldan ibarət proyektdir.*
 
 *Tapşırıq 3 hissədən ibarətdir:*
 
