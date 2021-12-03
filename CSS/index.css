@@ -1,0 +1,241 @@
+*{
+    box-sizing: border-box;
+}
+/*--------Global codlar------*/
+.logo_dizayn{
+    background-color: rgb(74, 165, 170);
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 1rem;
+    text-align: center;
+    padding: 0.7em !important;
+    height: auto;
+    box-sizing: border-box;
+    margin-top: -10px;
+}
+
+
+
+
+.bg-custom-blue{
+    background-color: rgb(74, 165, 170) !important;
+    
+}
+
+.custom-blue{
+    color: rgb(74, 165, 170) !important;
+    
+}
+.navbar-bg{
+    background-color: rgb(74, 165, 170) !important;
+}
+.bg-photo{
+    background-image: url(../images/concrete_seamless.png);
+    width: 100%;
+}
+
+.bg-photo-line{
+    border-bottom: 5px solid #DDD !important;
+}
+
+.footer_dizayn{
+    
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+    background: #666;
+    color: #999;
+    padding: 1em;
+    margin-top: 50px;
+    border-top: 10px solid green;
+}
+
+/*------contacts start---*/
+.panel_for_contacts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+    
+}
+
+.for_sm_to_height{
+    height: 150px;
+}
+.panel_for_icons{
+    width: 5em;
+    height: 5em;
+
+}
+
+i{
+    
+    font-size: 4em;
+}
+.bg-custom-white{
+    background-color: #fff;
+}
+
+h4{
+    padding: 0.2em;
+    box-sizing: border-box;
+    color: rgb(74, 165, 170) !important;
+}
+/*------contacts finish---*/
+
+/*-----------------------------------------------------------------------------------------------------------------------*/
+
+/*--------About sehvesi ucun start-----*/
+
+.panel_for_photo{
+    float: left;
+    width: 15em;
+    height: 15em;
+    margin-right: 1.5em;
+}
+
+.photo_dizayn{
+    width: 100%;
+    height: 100%;
+    margin:0.5em
+}
+
+p{
+    font-size: 1.1em;
+    line-height: 1.2em;
+    text-align: justify;
+    margin: 1em 0.5em 0.5em 0.5em;
+
+}
+
+.about_panel_for_left_side{
+    background-color: #fff;
+    border: 2px solid #ddd;
+    height: auto;
+
+}
+
+/*--------About sehvesi ucun finish-----*/
+
+
+
+
+/*-----------------------------------------------------------------------------------------------------------------------*/
+
+
+
+/*---------Portfolio sehvesi ucun start----*/
+
+.port_left_side{
+    background-color: #fff;
+    border: 2px solid #ddd;
+    height: auto;
+
+}
+
+.portfolio_panel_bb{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: auto;
+}
+
+.portfolio_panel_bb .portfolio_items{
+    margin: 1em;
+    
+
+}
+
+.portfolio_panel_bb .portfolio_items .for_port_image_card{
+    position: relative;
+    width: 12em;
+    height: 12em;
+}
+
+.portfolio_panel_bb .portfolio_items .for_port_image_card img{
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   
+   
+}
+
+h6{
+    background-color: rgb(74, 165, 170);
+    position: absolute;
+    opacity: 0.8;
+    color: #fff;
+    font-weight: bold;
+    font-size: 4em;
+    width: 100%;
+    height: 3.5em;
+    top: 7.5em;
+    text-align: center;
+    padding-top: 0.8em;
+    
+    
+}
+
+
+
+/*---------Portfolio sehvesi ucun finish----*/
+
+
+
+
+/*-----------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+/*-----------Contact sehvesinin codlari start------------*/
+
+.contact_right_side{
+    background-color: #fff;
+    border: 2px solid #ddd;
+    height: auto;
+}
+
+label{
+    font-style: italic;
+    font-weight: 700;
+    padding: 0.5em;
+    font-size: 1.2em;
+}
+
+input{
+    padding: 0.2em 0.2em 0.2em 1em;
+    border-radius: 0.5em;
+    border: 1px solid #ddd;
+    width: 100%;
+}
+
+textarea{
+    resize: none;
+    padding: 0.2em 0.2em 0.2em 1em;
+    border-radius: 0.5em;
+    border: 1px solid #ddd;
+    height: 150px;
+    width: 100%;
+}
+
+button{
+    padding: 0.5em 3em;
+    border: 1px solid #ddd;
+    margin-bottom: 2em;
+    background-color: rgb(74, 165, 170);
+    color: #fff;
+    font-size: 1.7em;
+    font-weight: bold;
+    font-style: italic;
+    
+
+}
+
+
+
+
+
+
+/*-----------Contact sehvesinin codlari finish------------*/
